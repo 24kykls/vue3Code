@@ -14,7 +14,7 @@ const logSelected=()=>{
     <select v-model="selected" multiple>
       <option>A</option>
       <option>B</option>
-      <option>C</option>
+      <option>D</option>
     </select>
   </div>
 
